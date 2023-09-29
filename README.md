@@ -1,4 +1,4 @@
-A modern, light mode dropdown. 📗🔽
+A modern, light mode dropdown. 📃🔽
 
 ⚙️ Code sandbox: https://codesandbox.io/s/modern-light-mode-dropdown-6xclw5?file=/src/App.js
 
